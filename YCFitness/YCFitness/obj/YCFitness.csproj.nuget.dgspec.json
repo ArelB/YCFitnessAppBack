@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arelb\\Desktop\\FitnessAppRepos\\YCFitnessAppBack\\YCFitness\\YCFitness\\YCFitness.csproj": {}
+    "C:\\Users\\arelb\\Desktop\\Bootcamp\\YCFitnessAppBack\\YCFitness\\YCFitness\\YCFitness.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arelb\\Desktop\\FitnessAppRepos\\YCFitnessAppBack\\YCFitness\\YCFitness\\YCFitness.csproj": {
+    "C:\\Users\\arelb\\Desktop\\Bootcamp\\YCFitnessAppBack\\YCFitness\\YCFitness\\YCFitness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arelb\\Desktop\\FitnessAppRepos\\YCFitnessAppBack\\YCFitness\\YCFitness\\YCFitness.csproj",
+        "projectUniqueName": "C:\\Users\\arelb\\Desktop\\Bootcamp\\YCFitnessAppBack\\YCFitness\\YCFitness\\YCFitness.csproj",
         "projectName": "YCFitness",
-        "projectPath": "C:\\Users\\arelb\\Desktop\\FitnessAppRepos\\YCFitnessAppBack\\YCFitness\\YCFitness\\YCFitness.csproj",
+        "projectPath": "C:\\Users\\arelb\\Desktop\\Bootcamp\\YCFitnessAppBack\\YCFitness\\YCFitness\\YCFitness.csproj",
         "packagesPath": "C:\\Users\\arelb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arelb\\Desktop\\FitnessAppRepos\\YCFitnessAppBack\\YCFitness\\YCFitness\\obj\\",
+        "outputPath": "C:\\Users\\arelb\\Desktop\\Bootcamp\\YCFitnessAppBack\\YCFitness\\YCFitness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arelb\\AppData\\Roaming\\NuGet\\NuGet.Config",
